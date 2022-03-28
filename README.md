@@ -1,5 +1,13 @@
-# Este es el primer cambio
+#Datos útiles
 
-## Subtítulo
+git remote set-url oauth2:TOKEN@REPOSITORY
 
-### Hola Mundo!
+git remote set-url origin https://oauth2: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@github.com/TobiasVallejos05/ORTEFSI01
+
+##NPM
+
+Para crear el *package.json* ejecutamos *npm init*
+
+Para instalar un módulo *npm install NOMBRE*
+
+Para instalar dependencias *npm install*
